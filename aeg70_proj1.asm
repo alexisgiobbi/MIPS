@@ -1,12 +1,6 @@
 # ALEXIS GIOBBI
 # AEG70
 
-# NOTES ON PROJECT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# Everything should work EXCEPT the blobs cannot be killed with the sword
-# or with the bombs. Part of the code for killing with the sword is
-# written in obj_update_bomb and it's commented out because whacky things happen.
-# Thank you!
-
 # this .include has to be up here so we can use the constants in the variables below.
 .include "game_constants.asm"
 
